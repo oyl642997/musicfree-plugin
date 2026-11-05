@@ -1,0 +1,16 @@
+{
+  "name": "我的自定义音乐插件订阅",
+  "version": 1,
+  "description": "适配 MusicFree v1.0.0 beta.4 的精选音乐源",
+  "plugins": [
+    {
+      "name": "示例音乐源",
+      "identifier": "example_music_plugin",
+      "version": "1.0.0",
+      "badge": "稳定",
+      "author": "Developer",
+      "description": "基于公开API接口的综合音乐源",
+      "url": "https://your-domain.com/path/to/plugin.js"
+    }
+  ]
+}
